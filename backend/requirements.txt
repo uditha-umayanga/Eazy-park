@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+websockets
+pyserial
+pydantic
+requests
